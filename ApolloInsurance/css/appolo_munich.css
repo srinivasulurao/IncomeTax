@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{
+    font-family:'Roboto', sans-serif; 
+    font-size: 14px;
+    width:870px;
+    padding:0px;
+    margin:0px;
+}
+
+.orange_border{
+    border-top:10px solid #FF5A00;
+    height:100px;
+    display:inline-block;
+    width:650px;
+    font-family:arial;
+    font-weight:bold;
+    vertical-align: top;
+}
+
+.header_right{
+    height: 100px;
+    border-top: 10px solid #FF5A00;
+    display: inline-block;
+    width: 97px;
+    float: right;
+}
+
+.logo_area{
+    display:inline-block;
+    vertical-align: top; 
+}
+
+.address_box{
+ display:inline-block;
+}
+
+.container_details{
+    border:1px solid lightgrey;
+    display:inline-block;
+    vertical-align:top;
+    width:280px;
+    margin-left:200px;
+    padding:10px
+}
+
+.page_one_content{
+    margin-top:50px;
+}
+
+.location_payment_date{
+    width: 117px;
+    float: right;
+    left: 100px;
+    
+}
+
+.bullet_points{
+    margin-left:75px;
+    font-size:13px;
+}
+
+.intermediary_table{
+    margin:auto;
+    margin-top:30px;
+    width:100%;
+    margin-bottom:227px;
+}
+
+.intermediary_table tr{
+    text-align: center;
+}
+
+.intermediary_table td, .intermediary_table th{
+    padding:5px;
+}
+
+.footer_left img{
+    height: 85px;
+    width: 100%;
+    top: 4px;
+    position: relative; 
+}
+
+.footer_left{
+    width:300px;
+    display: inline-block;
+    
+}
+
+.footer_right{
+    width: 530px;
+    display: inline-block;
+    font-size: 9px;
+    margin-left: 40px;
+    line-height: 14px;
+    color:darkgrey;
+}
+
+.footer_right b{
+    color:black;
+}
+
+.body_content{
+    padding-left:60px;
+}
+.digital_signed_text{
+    margin-left:30px;
+}
+
+.policy_details_table{
+    width:100%;
+}
+
+.policy_details_table .left{
+    vertical-align: top; 
+}
+
+.policy_details_table td{
+    width:30%; 
+}
+
+.policy_holders_table{
+    width:100%;
+}
+
+.policy_holders_table th{
+    font-size:12px;
+    font-weight:normal;
+}
+
+.policy_holders_table td, .policy_holders_table th{
+    text-align: center;
+}
+
+.premium_calculation{
+    width:100%;
+    clear:both; 
+}
+
+.premium_calculation .left{
+    width:70%;
+}
+
+.premium_calculation .right{
+    text-align:right;
+}
+
+.reverse_charge_basis{
+    width:100%;
+    font-size:12px;
+}
+
+.reverse_charge_basis th, .reverse_charge_basis td{
+    padding:5px;
+}
+
+.reverse_charge_basis .right{
+    width:60%;
+}
+
+.reverse_charge_basis .left{
+    width:20%;
+}
+
+.page_two{
+    height:994px;   
+}
+
+.page_three{
+    height:994px;
+}
+
+.page_four{
+    height:982px; 
+}
